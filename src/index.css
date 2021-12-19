@@ -110,7 +110,6 @@ code {
   .middle div {
     margin:0;
     width:100%;
-    /* background-color: blue; */
   }
 
   .image1 {
@@ -152,7 +151,6 @@ code {
 }
 
 .container {
-  /* background-color: blue; */
   padding:2rem;
 }
 
